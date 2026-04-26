@@ -1,3 +1,4 @@
+<img width="897" height="498" alt="Screenshot 2026-04-25 235810" src="https://github.com/user-attachments/assets/720e6019-e03a-4636-b870-62e8cf754199" />
 📊 Bank Transaction Analysis Dashboard
 
 📌 Project Overview
